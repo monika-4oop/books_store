@@ -1,5 +1,3 @@
-# Simple ReactJS Bookstore Cart Application
-
 ## What is in the Repo
 
 This Project is a Simple ReactJS Application which demonstrates the following
@@ -16,10 +14,11 @@ This Project is a Simple ReactJS Application which demonstrates the following
 
 **_This project is part of my React cardio session. It can be used to build bigger projects_**
 
-## Live Application DEMO URL
+## Repository URL
 
-#### https://monikabooksstore.netlify.app/
+#### https://github.com/ekamid/react-bookstore-cart
 
+# Prerequisites
 
 ### Install Node JS
 
@@ -38,6 +37,7 @@ npm install -g create-react-app
 Clone the project into local
 
 ```bash
+git clone https://github.com/ekamid/react-bookstore-cart.git
 cd react-bookstore-cart
 ```
 
